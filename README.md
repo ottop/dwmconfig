@@ -12,7 +12,7 @@
   - [gaplessgrid](https://dwm.suckless.org/patches/gaplessgrid/)
   - [layoutscroll](https://dwm.suckless.org/patches/layoutscroll/)
  - [Dmenu](https://tools.suckless.org/dmenu/)
- - [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop (modified in the way I outline in my SpectrWM config's README: https://github.com/ottop/spectrwmconfig/blob/main/README.md)
+ - [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop (modified in the way I outline in my SpectrWM config's README: https://github.com/ottop/spectrwmconfig/blob/main/README.md))
  - [slstatus](https://tools.suckless.org/slstatus/)
 
 ##How to use this configuration
