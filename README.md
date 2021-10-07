@@ -22,5 +22,5 @@
 4. Run ```make clean install``` in the slstatus directory.
 5. Install dmenu along with j4-dmenu-desktop, including the customizations linked in the above section.
 
-## The wallpaper
+## The wallpaper.
 Just download the png file.
