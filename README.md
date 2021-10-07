@@ -15,7 +15,7 @@
  - [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop (modified in the way I outline in my SpectrWM config's README: https://github.com/ottop/spectrwmconfig/blob/main/README.md))
  - [slstatus](https://tools.suckless.org/slstatus/)
 
-##How to use this configuration.
+## How to use this configuration.
 1. Put the config.h file of dwm in your dmenu directory along with the .diff patch files linked above. 
 2. Run ```make clean install``` in the dwm directory.
 3. Put the config.h file of slstatus in your slstatus directory.
