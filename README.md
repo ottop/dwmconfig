@@ -1,10 +1,10 @@
-# My DWM configuration
+# My DWM configuration.
 
 ## Example screenshots:
 ![Screenshot from 2021-10-04 18-43-40](https://user-images.githubusercontent.com/60475104/135884651-1757a170-4c4c-47a8-a7ea-f093b5d1a5f3.png)
 ![Screenshot from 2021-10-04 18-58-25](https://user-images.githubusercontent.com/60475104/135884676-833527c8-57be-4de7-9991-65aea88f122e.png)
 
-## What my configuration uses
+## What my configuration uses.
 - [DWM](https://dwm.suckless.org/)
 - The following patches:
   - [actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/)
@@ -15,7 +15,7 @@
  - [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop (modified in the way I outline in my SpectrWM config's README: https://github.com/ottop/spectrwmconfig/blob/main/README.md))
  - [slstatus](https://tools.suckless.org/slstatus/)
 
-##How to use this configuration
+##How to use this configuration.
 1. Put the config.h file of dwm in your dmenu directory along with the .diff patch files linked above. 
 2. Run ```make clean install``` in the dwm directory.
 3. Put the config.h file of slstatus in your slstatus directory.
